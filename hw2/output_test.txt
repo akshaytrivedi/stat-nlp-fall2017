@@ -2811,7 +2811,6 @@ Example:	The Latin American Discovery Fund, Inc.	guess=company	gold=	 confidence
 Example:	The Swiss Helvetia Fund, Inc.	guess=company	gold=	 confidence=0.9934066162070121
 Example:	Theragenics Corporation.	guess=company	gold=	 confidence=0.9915847995823586
 Example:	Thomas Industries Inc.	guess=company	gold=	 confidence=0.9997069740288709
-Accuracy: 0.0
 Example:	Time Warner Capital I	guess=company	gold=	 confidence=0.924510692976041
 Example:	Transcontinental Realty Investors Inc.	guess=company	gold=	 confidence=0.999992623475217
 Example:	Transportadora de Gas del Sur	guess=movie	gold=	 confidence=0.655228040020241
