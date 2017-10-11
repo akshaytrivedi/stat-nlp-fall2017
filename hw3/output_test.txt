@@ -1,4 +1,4 @@
-The	NN
+The	DT
 problem	NN
 is	VBZ
 that	IN
